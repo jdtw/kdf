@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"jdtw.dev/kdf/internal/testvectors"
+	"github.com/jdtw/kdf/internal/testvectors"
 )
 
 func TestBuffering(t *testing.T) {
